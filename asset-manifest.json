@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mahalearnav1-oss/recipe-app/static/css/main.3833be98.css",
+    "main.js": "/mahalearnav1-oss/recipe-app/static/js/main.fc3456a3.js",
+    "static/js/453.2d55d02f.chunk.js": "/mahalearnav1-oss/recipe-app/static/js/453.2d55d02f.chunk.js",
+    "index.html": "/mahalearnav1-oss/recipe-app/index.html",
+    "main.3833be98.css.map": "/mahalearnav1-oss/recipe-app/static/css/main.3833be98.css.map",
+    "main.fc3456a3.js.map": "/mahalearnav1-oss/recipe-app/static/js/main.fc3456a3.js.map",
+    "453.2d55d02f.chunk.js.map": "/mahalearnav1-oss/recipe-app/static/js/453.2d55d02f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3833be98.css",
+    "static/js/main.fc3456a3.js"
+  ]
+}
