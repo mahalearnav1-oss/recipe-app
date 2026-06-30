@@ -1,0 +1,682 @@
+
+> recipe-app@0.1.0 start
+> react-scripts start
+
+(node:18272) [DEP0176] DeprecationWarning: fs.F_OK is deprecated, use fs.constants.F_OK instead
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:18272) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:18272) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 3:26:  Unnecessary escape character: \.  no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 3:26:  Unnecessary escape character: \.  no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 3:26:  Unnecessary escape character: \.  no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 3:26:  Unnecessary escape character: \.  no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 3:26:  Unnecessary escape character: \.  no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 3:26:  Unnecessary escape character: \.  no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 3:26:  Unnecessary escape character: \.  no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 3:26:  Unnecessary escape character: \.  no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+  Line 3:26:  Unnecessary escape character: \.       no-useless-escape
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+Compiled successfully!
+webpack compiled [1m[32msuccessfully[39m[22m
+Compiling...
+Failed to compile.
+
+Attempted import error: './App' does not contain a default export (imported as 'App').
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:8:   'React' is defined but never used      no-unused-vars
+  Line 1:17:  'useState' is defined but never used   no-unused-vars
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/index.js[39m[22m [1m[32m12:33-36[39m[22m
+[1mexport 'default' (imported as 'App') was [1m[31mnot found[39m[22m[1m in './App' [1m[31m(module has no exports)[39m[22m[1m[39m[22m
+
+webpack compiled with [1m[31m1 error[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Attempted import error: './App' does not contain a default export (imported as 'App').
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:8:   'React' is defined but never used      no-unused-vars
+  Line 1:17:  'useState' is defined but never used   no-unused-vars
+  Line 1:27:  'useEffect' is defined but never used  no-unused-vars
+
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/index.js[39m[22m [1m[32m12:33-36[39m[22m
+[1mexport 'default' (imported as 'App') was [1m[31mnot found[39m[22m[1m in './App' [1m[31m(module has no exports)[39m[22m[1m[39m[22m
+
+webpack compiled with [1m[31m1 error[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Attempted import error: './App' does not contain a default export (imported as 'App').
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:8:   'React' is defined but never used           no-unused-vars
+  Line 1:17:  'useState' is defined but never used        no-unused-vars
+  Line 1:27:  'useEffect' is defined but never used       no-unused-vars
+  Line 3:21:  'initialRecipes' is defined but never used  no-unused-vars
+
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/index.js[39m[22m [1m[32m12:33-36[39m[22m
+[1mexport 'default' (imported as 'App') was [1m[31mnot found[39m[22m[1m in './App' [1m[31m(module has no exports)[39m[22m[1m[39m[22m
+
+webpack compiled with [1m[31m1 error[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Attempted import error: './App' does not contain a default export (imported as 'App').
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:8:   'React' is defined but never used           no-unused-vars
+  Line 1:17:  'useState' is defined but never used        no-unused-vars
+  Line 1:27:  'useEffect' is defined but never used       no-unused-vars
+  Line 3:21:  'initialRecipes' is defined but never used  no-unused-vars
+  Line 4:8:   'RecipeCard' is defined but never used      no-unused-vars
+
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/index.js[39m[22m [1m[32m12:33-36[39m[22m
+[1mexport 'default' (imported as 'App') was [1m[31mnot found[39m[22m[1m in './App' [1m[31m(module has no exports)[39m[22m[1m[39m[22m
+
+webpack compiled with [1m[31m1 error[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Attempted import error: './App' does not contain a default export (imported as 'App').
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:8:   'React' is defined but never used           no-unused-vars
+  Line 1:17:  'useState' is defined but never used        no-unused-vars
+  Line 1:27:  'useEffect' is defined but never used       no-unused-vars
+  Line 3:21:  'initialRecipes' is defined but never used  no-unused-vars
+  Line 4:8:   'RecipeCard' is defined but never used      no-unused-vars
+
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/index.js[39m[22m [1m[32m12:33-36[39m[22m
+[1mexport 'default' (imported as 'App') was [1m[31mnot found[39m[22m[1m in './App' [1m[31m(module has no exports)[39m[22m[1m[39m[22m
+
+webpack compiled with [1m[31m1 error[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+Attempted import error: './App' does not contain a default export (imported as 'App').
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 1:8:   'React' is defined but never used           no-unused-vars
+  Line 1:17:  'useState' is defined but never used        no-unused-vars
+  Line 1:27:  'useEffect' is defined but never used       no-unused-vars
+  Line 3:21:  'initialRecipes' is defined but never used  no-unused-vars
+  Line 4:8:   'RecipeCard' is defined but never used      no-unused-vars
+
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m./src/index.js[39m[22m [1m[32m12:33-36[39m[22m
+[1mexport 'default' (imported as 'App') was [1m[31mnot found[39m[22m[1m in './App' [1m[31m(module has no exports)[39m[22m[1m[39m[22m
+
+webpack compiled with [1m[31m1 error[39m[22m and [1m[33m1 warning[39m[22m
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\App.js
+Syntax error: Unexpected token (8:0) (8:undefined)
+[1m[31mERROR[39m[22m in [1m./src/App.js[39m[22m
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\src\App.js: Unexpected token (8:0)
+
+[0m [90m 6 |[39m
+ [90m 7 |[39m [36mfunction[39m [33mApp[39m() {
+[31m[1m>[22m[39m[90m 8 |[39m
+ [90m   |[39m [31m[1m^[22m[39m[0m
+    at constructor (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6616:19)
+    at FlowParserMixin.unexpected (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6636:16)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11459:22)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4776:20)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11098:23)
+    at FlowParserMixin.parseUpdate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11083:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11063:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10916:61)
+    at FlowParserMixin.parseExprOps (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10921:23)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10898:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10848:21)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3561:18)
+    at FlowParserMixin.parseExpressionBase (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10801:23)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:39
+    at FlowParserMixin.allowInAnd (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12438:16)
+    at FlowParserMixin.parseExpression (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:17)
+    at FlowParserMixin.parseStatementContent (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12912:23)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12784:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2930:24)
+    at FlowParserMixin.parseStatementListItem (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12764:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13333:61)
+    at FlowParserMixin.parseBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13326:10)
+    at FlowParserMixin.parseBlock (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13314:10)
+    at FlowParserMixin.parseFunctionBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12117:24)
+    at FlowParserMixin.parseFunctionBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2907:11)
+    at FlowParserMixin.parseFunctionBodyAndFinish (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12103:10)
+    at FlowParserMixin.parseFunctionBodyAndFinish (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2915:18)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13462:12
+    at FlowParserMixin.withSmartMixTopicForbiddingContext (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12420:14)
+    at FlowParserMixin.parseFunction (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13461:10)
+    at FlowParserMixin.parseFunctionStatement (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13142:17)
+    at FlowParserMixin.parseStatementContent (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12808:21)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12784:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2930:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12761:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13333:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13326:10)
+    at FlowParserMixin.parseProgram (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12639:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12629:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3697:28)
+    at FlowParserMixin.parse (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:14505:25)
+    at parse (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:14539:38)
+    at parser (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\transform.js:22:33)
+
+[1m[31mERROR[39m[22m in [1m[eslint] 
+src\App.js
+  Line 8:  Parsing [1m[31merror[39m[22m[1m: [1m[31mUnexpected[39m[22m[1m token (8:0)
+
+[39m[22m
+
+webpack compiled with [1m[31m2 errors[39m[22m
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\App.js
+Syntax error: Unexpected token (27:0) (27:undefined)
+[1m[31mERROR[39m[22m in [1m./src/App.js[39m[22m
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\src\App.js: Unexpected token (27:0)
+
+[0m [90m 25 |[39m   [36mconst[39m [cart[33m,[39m setCart] [33m=[39m useState([])[33m;[39m
+ [90m 26 |[39m
+[31m[1m>[22m[39m[90m 27 |[39m
+ [90m    |[39m [31m[1m^[22m[39m[0m
+    at constructor (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6616:19)
+    at FlowParserMixin.unexpected (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6636:16)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11459:22)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4776:20)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11098:23)
+    at FlowParserMixin.parseUpdate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11083:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11063:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10916:61)
+    at FlowParserMixin.parseExprOps (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10921:23)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10898:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10848:21)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3561:18)
+    at FlowParserMixin.parseExpressionBase (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10801:23)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:39
+    at FlowParserMixin.allowInAnd (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12438:16)
+    at FlowParserMixin.parseExpression (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:17)
+    at FlowParserMixin.parseStatementContent (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12912:23)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12784:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2930:24)
+    at FlowParserMixin.parseStatementListItem (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12764:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13333:61)
+    at FlowParserMixin.parseBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13326:10)
+    at FlowParserMixin.parseBlock (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13314:10)
+    at FlowParserMixin.parseFunctionBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12117:24)
+    at FlowParserMixin.parseFunctionBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2907:11)
+    at FlowParserMixin.parseFunctionBodyAndFinish (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12103:10)
+    at FlowParserMixin.parseFunctionBodyAndFinish (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2915:18)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13462:12
+    at FlowParserMixin.withSmartMixTopicForbiddingContext (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12420:14)
+    at FlowParserMixin.parseFunction (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13461:10)
+    at FlowParserMixin.parseFunctionStatement (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13142:17)
+    at FlowParserMixin.parseStatementContent (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12808:21)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12784:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2930:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12761:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13333:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13326:10)
+    at FlowParserMixin.parseProgram (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12639:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12629:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3697:28)
+    at FlowParserMixin.parse (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:14505:25)
+    at parse (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:14539:38)
+    at parser (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\transform.js:22:33)
+
+[1m[31mERROR[39m[22m in [1m[eslint] 
+src\App.js
+  Line 27:  Parsing [1m[31merror[39m[22m[1m: [1m[31mUnexpected[39m[22m[1m token (27:0)
+
+[39m[22m
+
+webpack compiled with [1m[31m2 errors[39m[22m
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\App.js
+Syntax error: Unexpected token (173:0) (173:undefined)
+[1m[31mERROR[39m[22m in [1m./src/App.js[39m[22m
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\src\App.js: Unexpected token (173:0)
+
+[0m [90m 171 |[39m   }[33m;[39m
+ [90m 172 |[39m
+[31m[1m>[22m[39m[90m 173 |[39m
+ [90m     |[39m [31m[1m^[22m[39m[0m
+    at constructor (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6616:19)
+    at FlowParserMixin.unexpected (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6636:16)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11459:22)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4776:20)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11098:23)
+    at FlowParserMixin.parseUpdate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11083:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11063:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10916:61)
+    at FlowParserMixin.parseExprOps (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10921:23)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10898:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10848:21)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3561:18)
+    at FlowParserMixin.parseExpressionBase (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10801:23)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:39
+    at FlowParserMixin.allowInAnd (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12438:16)
+    at FlowParserMixin.parseExpression (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:17)
+    at FlowParserMixin.parseStatementContent (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12912:23)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12784:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2930:24)
+    at FlowParserMixin.parseStatementListItem (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12764:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13333:61)
+    at FlowParserMixin.parseBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13326:10)
+    at FlowParserMixin.parseBlock (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13314:10)
+    at FlowParserMixin.parseFunctionBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12117:24)
+    at FlowParserMixin.parseFunctionBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2907:11)
+    at FlowParserMixin.parseFunctionBodyAndFinish (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12103:10)
+    at FlowParserMixin.parseFunctionBodyAndFinish (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2915:18)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13462:12
+    at FlowParserMixin.withSmartMixTopicForbiddingContext (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12420:14)
+    at FlowParserMixin.parseFunction (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13461:10)
+    at FlowParserMixin.parseFunctionStatement (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13142:17)
+    at FlowParserMixin.parseStatementContent (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12808:21)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12784:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:2930:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12761:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13333:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:13326:10)
+    at FlowParserMixin.parseProgram (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12639:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12629:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3697:28)
+    at FlowParserMixin.parse (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:14505:25)
+    at parse (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:14539:38)
+    at parser (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\core\lib\transform.js:22:33)
+
+[1m[31mERROR[39m[22m in [1m[eslint] 
+src\App.js
+  Line 173:  Parsing [1m[31merror[39m[22m[1m: [1m[31mUnexpected[39m[22m[1m token (173:0)
+
+[39m[22m
+
+webpack compiled with [1m[31m2 errors[39m[22m
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\App.js
+Syntax error: Unexpected token, expected "," (226:46) (226:46)
+[1m[31mERROR[39m[22m in [1m./src/App.js[39m[22m
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\src\App.js: Unexpected token, expected "," (226:46)
+
+[0m [90m 224 |[39m           [33m<[39m[33mbutton[39m
+ [90m 225 |[39m             className[33m=[39m[32m"add-btn"[39m
+[31m[1m>[22m[39m[90m 226 |[39m             onClick[33m=[39m{toggleAddForm[33m=[39m{toggleAdd [33mRecipe[39m
+ [90m     |[39m                                               [31m[1m^[22m[39m
+ [90m 227 |[39m [33m<[39m[33m/[39m[33mbutton[39m[33m>[39m
+ [90m 228 |[39m         [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 229 |[39m[0m
+    at constructor (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6616:19)
+    at FlowParserMixin.unexpected (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6636:16)
+    at FlowParserMixin.expect (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6916:12)
+    at FlowParserMixin.parseObjectLike (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11839:14)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11356:23)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4776:20)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11098:23)
+    at FlowParserMixin.parseUpdate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11083:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11063:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10916:61)
+    at FlowParserMixin.parseExprOps (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10921:23)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10898:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10848:21)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3561:18)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10877:25)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3561:18)
+    at FlowParserMixin.parseExpressionBase (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10801:23)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:39
+    at FlowParserMixin.allowInAnd (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12443:12)
+    at FlowParserMixin.parseExpression (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:17)
+    at FlowParserMixin.jsxParseExpressionContainer (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4644:31)
+    at FlowParserMixin.jsxParseAttributeValue (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4616:21)
+    at FlowParserMixin.jsxParseAttribute (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4665:38)
+    at FlowParserMixin.jsxParseOpeningElementAfterName (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4679:28)
+    at FlowParserMixin.jsxParseOpeningElementAfterName (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4080:18)
+    at FlowParserMixin.jsxParseOpeningElementAt (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4674:17)
+    at FlowParserMixin.jsxParseElementAt (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4698:33)
+    at FlowParserMixin.jsxParseElementAt (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4710:32)
+    at FlowParserMixin.jsxParseElementAt (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4710:32)
+    at FlowParserMixin.jsxParseElementAt (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4710:32)
+    at FlowParserMixin.jsxParseElement (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4761:17)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4771:19)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11098:23)
+    at FlowParserMixin.parseUpdate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11083:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11063:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10916:61)
+    at FlowParserMixin.parseExprOps (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10921:23)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10898:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10848:21)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3510:39
+    at FlowParserMixin.tryParse (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6924:20)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3510:18)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10817:39
+    at FlowParserMixin.allowInAnd (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12443:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10817:17)
+    at FlowParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12510:17)
+    at FlowParserMixin.parseParenAndDistinguishExpression (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11692:28)
+    at FlowParserMixin.parseParenAndDistinguishExpression (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3603:18)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11348:23)
+
+[1m[31mERROR[39m[22m in [1m[eslint] 
+src\App.js
+  Line 226:46:  Parsing [1m[31merror[39m[22m[1m: [1m[31mUnexpected[39m[22m[1m token, expected "," (226:46)
+
+[39m[22m
+
+webpack compiled with [1m[31m2 errors[39m[22m
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\App.js
+Syntax error: Expected corresponding JSX closing tag for <div>. (459:6) (459:6)
+[1m[31mERROR[39m[22m in [1m./src/App.js[39m[22m
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\src\App.js: Expected corresponding JSX closing tag for <div>. (459:6)
+
+[0m [90m 457 |[39m           [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 458 |[39m         )}
+[31m[1m>[22m[39m[90m 459 |[39m       [33m<[39m[33m/[39m[33mmain[39m[33m>[39m
+ [90m     |[39m       [31m[1m^[22m[39m
+ [90m 460 |[39m     [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 461 |[39m   )[33m;[39m
+ [90m 462 |[39m }[0m
+    at constructor (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6616:19)
+    at FlowParserMixin.jsxParseElementAt (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4739:16)
+    at FlowParserMixin.jsxParseElement (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4761:17)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4771:19)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11098:23)
+    at FlowParserMixin.parseUpdate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11083:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11063:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10916:61)
+    at FlowParserMixin.parseExprOps (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10921:23)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10898:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10848:21)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3510:39
+    at FlowParserMixin.tryParse (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:6924:20)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3510:18)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10817:39
+    at FlowParserMixin.allowInAnd (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12443:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10817:17)
+    at FlowParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12510:17)
+    at FlowParserMixin.parseParenAndDistinguishExpression (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11692:28)
+    at FlowParserMixin.parseParenAndDistinguishExpression (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3603:18)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11348:23)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4776:20)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11098:23)
+    at FlowParserMixin.parseUpdate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11083:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11063:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10916:61)
+    at FlowParserMixin.parseExprOpBaseRightExpr (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11003:34)
+    at FlowParserMixin.parseExprOpRightExpr (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10998:21)
+    at FlowParserMixin.parseExprOp (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10964:27)
+    at FlowParserMixin.parseExprOps (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10925:17)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10898:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10848:21)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:3561:18)
+    at FlowParserMixin.parseExpressionBase (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10801:23)
+    at C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:39
+    at FlowParserMixin.allowInAnd (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:12443:12)
+    at FlowParserMixin.parseExpression (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10797:17)
+    at FlowParserMixin.jsxParseExpressionContainer (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4644:31)
+    at FlowParserMixin.jsxParseElementAt (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4723:36)
+    at FlowParserMixin.jsxParseElementAt (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4710:32)
+    at FlowParserMixin.jsxParseElement (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4761:17)
+    at FlowParserMixin.parseExprAtom (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:4771:19)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11098:23)
+    at FlowParserMixin.parseUpdate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11083:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:11063:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10916:61)
+    at FlowParserMixin.parseExprOps (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10921:23)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10898:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\Arnav\OneDrive\Desktop\ice-cream_v2\recipe-app\node_modules\@babel\parser\lib\index.js:10848:21)
+
+[1m[31mERROR[39m[22m in [1m[eslint] 
+src\App.js
+  Line 459:6:  Parsing [1m[31merror[39m[22m[1m: Expected corresponding JSX closing tag for <div>. (459:6)
+
+[39m[22m
+
+webpack compiled with [1m[31m2 errors[39m[22m
